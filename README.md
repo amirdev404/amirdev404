@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Amir
 
-<!--
-**amirdev404/amirdev404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | UI Designer 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a frontend developer focused on building modern, responsive and user-friendly web interfaces.
+
+I love clean design, fast websites and smooth user experience.
+
+---
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3 / SCSS
+- JavaScript (ES6+)
+- React (learning)
+  
+
+---
+
+## 🚀 Projects
+- Landing Pages
+- Business Websites
+- Portfolio Websites
+- UI Components
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amirdev404&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirdev404)
+
+---
+
+## 🌐 Contact
+- Website: https://sitemiz.ir
+- GitHub: https://github.com/amirdev404
