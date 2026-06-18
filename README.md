@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Amir
 
-🚀 Frontend Developer | UI Designer | WordPress Developer
+🚀 Frontend Developer | UI Designer 
 
 ---
 
